@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sulaiman12ss
 - 👀 I’m interested in Coding, Economics, and Cars!
-- 🌱 I’m currently learning Computer Science and Global Economics & Managment
-- 💞️ I’m looking to collaborate on meaningful projects
+- 🌱 Major: Computer Science, Minor: Global Economics & Management
 - 📫 How to reach me: 
 Email:sissa@jacobs-university.de
 Insta: sulaiman.issa1
